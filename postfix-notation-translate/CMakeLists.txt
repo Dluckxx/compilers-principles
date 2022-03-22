@@ -3,4 +3,4 @@ project(compilers-principles)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(postfix-notation-demo main.cpp)
+add_executable(postfix-notation-translate main.cpp)
